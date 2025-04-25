@@ -41,7 +41,7 @@ export default function Portfolio() {
     },
     {
       id: 5,
-      title: "Nature's Whisper",
+      title: "Natures Whisper",
       category: "paintings",
       image: "/placeholder.svg?height=400&width=600",
       year: "2024",
